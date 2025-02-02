@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.cerberauth.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/cerberauth/.github/README/img/cerberauth.png" width="215" height="110" alt="CerberAuth - Authentication solutions and security automation for safer, faster, and smarter development" />
+    <img src="https://raw.githubusercontent.com/cerberauth/.github/refs/heads/main/assets/cerberauth.jpeg" width="128" height="128" alt="CerberAuth - Authentication solutions and security automation for safer, faster, and smarter development" />
   </a>
 </p>
 
