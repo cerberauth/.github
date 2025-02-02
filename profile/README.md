@@ -13,6 +13,11 @@
 - [Nacho](https://github.com/cerberauth/nacho) - Designed to be used by developers and non-developers alike, and it is meant to be a simple and easy-to-use tool to help create OAuth 2.0 clients.
 - [openapi-oathkeeper](https://github.com/cerberauth/openapi-oathkeeper) - openapi-oathkeeper is a CLI for generating Ory Oathkeeper rules from an OpenAPI 3 contract and save a lot of time and effort, especially for larger projects with many endpoints or many services.
 
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Join the Cerberauth community
 
 - [Join CerberAuth Community Discord](https://www.cerberauth.com/community)
