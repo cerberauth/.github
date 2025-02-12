@@ -16,10 +16,10 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use SAML for Single Page Applications and Mobile Apps?](https://www.cerberauth.com/blog/how-saml-for-spa-mobile-app/)
 - [Step-Up Authentication with Auth0](https://www.cerberauth.com/blog/auth0-step-up-authentication/)
 - [OpenID Connect Provider Security Headers](https://www.cerberauth.com/blog/openid-connect-provider-security-headers/)
 - [Essential Security Headers for Web Applications](https://www.cerberauth.com/blog/web-application-security-headers/)
-- [Authentication Methods in OpenID Connect and OAuth 2.0](https://www.cerberauth.com/blog/openid-connect-oauth2-authentication-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Join the Cerberauth community
