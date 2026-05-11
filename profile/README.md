@@ -16,8 +16,8 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure AD B2C Is Being Retired — What Should You Do Next?](https://www.cerberauth.com/blog/azure-ad-b2c-deprecated-what-to-do-next/)
-- [Federation is not just Authentication: What&#39;s the difference and why it matters for your architecture?](https://www.cerberauth.com/blog/authentication-federation-difference-matters-architecture/)
+- [Azure AD B2C is being retired: What should you do next?](https://www.cerberauth.com/blog/azure-ad-b2c-deprecated-what-to-do-next/)
+- [Federation is not just Authentication](https://www.cerberauth.com/blog/authentication-federation-difference-matters-architecture/)
 - [How to use SAML for Single Page Applications and Mobile Apps?](https://www.cerberauth.com/blog/how-saml-for-spa-mobile-app/)
 - [Step-Up Authentication with Auth0](https://www.cerberauth.com/blog/auth0-step-up-authentication/)
 <!-- BLOG-POST-LIST:END -->
