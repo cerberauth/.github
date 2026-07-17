@@ -16,10 +16,10 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RBAC vs ReBAC: Two Authorization Models, Two Philosophies](https://www.cerberauth.com/blog/rbac-vs-rebac/)
+- [Users Getting Logged Out Randomly? Your Refresh Token Rotation Might Be Fighting Itself](https://www.cerberauth.com/blog/refresh-token-rotation-integration-challenges/)
+- [Validating JWTs from Multiple Issuers](https://www.cerberauth.com/blog/jwt-multi-issuer-validation/)
 - [How to Generate a JWT Secret Key for HMAC Algorithms](https://www.cerberauth.com/blog/generate-jwt-secret-key-hmac/)
-- [Azure AD B2C is being retired: What should you do next?](https://www.cerberauth.com/blog/azure-ad-b2c-deprecated-what-to-do-next/)
-- [Federation is not just Authentication](https://www.cerberauth.com/blog/authentication-federation-difference-matters-architecture/)
-- [How to use SAML for Single Page Applications and Mobile Apps?](https://www.cerberauth.com/blog/how-saml-for-spa-mobile-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Join the Cerberauth community
