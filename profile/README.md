@@ -16,10 +16,10 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RBAC vs ReBAC: Two Authorization Models, Two Philosophies](https://www.cerberauth.com/blog/rbac-vs-rebac/)
-- [Users Getting Logged Out Randomly? Your Refresh Token Rotation Might Be Fighting Itself](https://www.cerberauth.com/blog/refresh-token-rotation-integration-challenges/)
-- [Validating JWTs from Multiple Issuers](https://www.cerberauth.com/blog/jwt-multi-issuer-validation/)
-- [How to Generate a JWT Secret Key for HMAC Algorithms](https://www.cerberauth.com/blog/generate-jwt-secret-key-hmac/)
+- [Governing Autonomous Systems: Auditability, Non-Repudiation, and Revocation](https://www.cerberauth.com/blog/governing-autonomous-systems-audit/)
+- [Least Privilege at the Data Layer: Relationship-Based Authorization for RAG](https://www.cerberauth.com/blog/rebac-least-privilege-rag/)
+- [Securing the New Attack Surface: Authorization for Tool-Calling Agents and MCP](https://www.cerberauth.com/blog/securing-tool-calling-agents-mcp/)
+- [Beyond the Consent Screen: Agent-to-Agent and Agent-to-App Trust](https://www.cerberauth.com/blog/agent-to-agent-trust-beyond-consent/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Join the Cerberauth community
