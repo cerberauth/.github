@@ -1,9 +1,9 @@
 name: Latest blog post workflow
 
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *' # Runs every day
+  workflow_dispatch:
 
 permissions:
   contents: write # To write the generated contents to the readme
@@ -11,11 +11,11 @@ permissions:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "4"
+          max_post_count: "5"
           feed_list: "https://www.cerberauth.com/rss.xml"
           readme_path: ./profile/README.md
