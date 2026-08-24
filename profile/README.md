@@ -20,6 +20,7 @@
 - [Least Privilege at the Data Layer: Relationship-Based Authorization for RAG](https://www.cerberauth.com/blog/rebac-least-privilege-rag/)
 - [Securing the New Attack Surface: Authorization for Tool-Calling Agents and MCP](https://www.cerberauth.com/blog/securing-tool-calling-agents-mcp/)
 - [Beyond the Consent Screen: Agent-to-Agent and Agent-to-App Trust](https://www.cerberauth.com/blog/agent-to-agent-trust-beyond-consent/)
+- [Human-in-the-Loop, Automated: Asynchronous Authorization for High-Stakes Agent Actions](https://www.cerberauth.com/blog/async-authorization-human-in-the-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Join the Cerberauth community
