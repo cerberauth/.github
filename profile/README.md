@@ -29,7 +29,7 @@
 ## Learn more
 
 - **[Website](https://www.cerberauth.com)**
-- **[VulnAPI Documentation](https://vulnapi.cerberauth.com/docs)**
+- **[Documentations](https://www.cerberauth.com/docs)**
 - **[GitHub](https://github.com/cerberauth)**
 - **[Blog](https://www.cerberauth.com/blog/)**
 - **[Contact](https://www.cerberauth.com/contact/)**
